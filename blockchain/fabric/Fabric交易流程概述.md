@@ -1,6 +1,6 @@
 # fabric 交易流程概述 {ignore=true}
 
-* [交易流程图](## 交易流程图)
+* [交易流程图](# 交易流程图)
 
 
 > FABRIC的交易流程中，主要关键节点参与，PEER节点、ORDERER节点、CA节点及CLIENT端。
