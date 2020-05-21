@@ -19,5 +19,27 @@ sudo apt-get upgrade
 sudo apt-get install openjdk-8-jdk
 ```
 
+## 安装 mysql 5.7.30-0ubuntu0.18.04.1
+
+**安装**
+```shell
+sudo apt install mysql-server
+```
+
+**更改密码**
+```shell
+sudo mysql_secure_installation
+```
+
+**启动 mysql**
+```shell
+systemctl start mysql
+```
+
+**查看运行状态**
+```shell
+systemctl status mysql
+```
+
 ## 安装 nginx
 
